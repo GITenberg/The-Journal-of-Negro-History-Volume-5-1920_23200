@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23200#The-Journal-of-Negro-History-Volume-5-1920
 gutenberg_bookshelf:
 - Slavery
 - The Journal of Negro History
